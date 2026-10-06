@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sttonex.github.io/minasmunck-site/sitemap.xml
